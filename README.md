@@ -1,2 +1,2 @@
-# belluslaszlo82.utp
+# belluslaszlo82
 Újratervezés programhoz
